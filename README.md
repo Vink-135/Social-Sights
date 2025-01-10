@@ -1,4 +1,5 @@
 # AI-Powered Social Media Engagement Assistant
+![Langflow Flow](https://raw.githubusercontent.com/Vink-135/Social-Sights/refs/heads/main/langflow's%20flow.png)
 # Social Sights
 ![LangFlow Workflow](https://img.shields.io/badge/LangFlow-Workflow-blue.svg)  
 ![Astra DB](https://img.shields.io/badge/AstraDB-CloudDatabase-orange.svg)  
