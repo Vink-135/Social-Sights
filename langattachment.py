@@ -16,8 +16,7 @@ FLOW_ID = "ec3c97a3-62bc-45b9-9cb1-ccb1677974d4"
 APPLICATION_TOKEN = ""
 ENDPOINT = "" # You can set a specific endpoint name in the flow settings
 
-# You can tweak the flow by adding a tweaks dictionary
-# e.g {"OpenAI-XXXXX": {"model_name": "gpt-4"}}
+
 TWEAKS = {
   "ChatInput-Z8xyq": {},
   "AstraDB-9Dk7n": {},
