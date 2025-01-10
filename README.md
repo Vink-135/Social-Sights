@@ -3,7 +3,6 @@
 ![LangFlow Workflow](https://img.shields.io/badge/LangFlow-Workflow-blue.svg)  
 ![Astra DB](https://img.shields.io/badge/AstraDB-CloudDatabase-orange.svg)  
 ![OpenAI API](https://img.shields.io/badge/OpenAI-API-green.svg)  
-![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)  
 
 ---
 
